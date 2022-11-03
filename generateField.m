@@ -5,24 +5,7 @@
 %colide into any of the obstacles
 
 
-%%%%%
-%POI%
-%%%%%
 
-%Configuration 1 - Start Position
-
-% q1= [0, 10, 870]; %starting at origin
-% 
-% %end effector position
-% t0=forKinDW(q1(1), q1(2), q1(3));
-% pos1EE=([t0(1,4), t0(2,4), t0(3,4)]);
-% 
-% 
-% %Configuration 2 - End Position
-% q2= [pi/3, 1200, 500];
-% %EE Position
-% t0=forKinDW(q2(1), q2(2), q2(3));
-% pos2EE=([t0(1,4), t0(2,4), t0(3,4)]);
 
 
 
